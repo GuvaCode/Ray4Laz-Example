@@ -1,4 +1,4 @@
-## 100+ examples for [ray4laz](https://github.com/GuvaCode/ray4laz) package
+## Huge collection with +120 code examples for [ray4laz](https://github.com/GuvaCode/ray4laz) package.
 
 <img align="centr" src="raylogo.png" width="256px">
 

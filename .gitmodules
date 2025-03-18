@@ -1,6 +1,1 @@
-[submodule "use/ray4laz"]
-	path = use/ray4laz
-	url = git@github.com:GuvaCode/ray4laz.git
-[submodule "use/acinerella"]
-	path = use/acinerella
-	url = git@github.com:astoeckel/acinerella.git
+

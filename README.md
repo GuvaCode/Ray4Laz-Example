@@ -1,4 +1,4 @@
-## Huge collection with +120 code examples for [ray4laz](https://github.com/GuvaCode/ray4laz) package.
+## Huge collection with +180 code examples for [ray4laz](https://github.com/GuvaCode/ray4laz) package.
 
 <img align="centr" src="raylogo.png" width="256px">
 
@@ -96,35 +96,112 @@
 - raymath vector angle
 
 ### [Shaders:](https://github.com/GuvaCode/Ray4Laz-Example/blob/main/shaders/)
-- shaders write depth
-- shaders shadowmap
-- shaders lightmap
-- shaders texture waves
-- shaders shapes textures
-- shaders custom uniform
-- shaders mesh instancing
-- shaders simple mask
-- shaders julia set
-- shaders vertex displacement
-- shaders multi sample2d
-- shaders texture drawing
-- shaders postprocessing
-- shaders fog
-- shaders hybrid render
-- shaders eratosthenes
-- shaders texture outline
-- shaders deferred render
-- shaders raymarching
-- shaders basic lighting
-- shaders texture tiling
-- shaders palette switch
-- shaders spotlight
-- shaders hot reloading
-- shaders model shader
-- shaders basic pbr
+- write depth
+- shadowmap
+- lightmap
+- texture waves
+- shapes textures
+- custom uniform
+- mesh instancing
+- simple mask
+- julia set
+- vertex displacement
+- multi sample2d
+- texture drawing
+- postprocessing
+- fog
+- hybrid render
+- eratosthenes
+- texture outline
+- deferred render
+- raymarching
+- basic lighting
+- texture tiling
+- palette switch
+- spotlight
+- hot reloading
+- model shader
+- basic pbr
 
+### [Shapes:](https://github.com/GuvaCode/Ray4Laz-Example/blob/main/shapes/)
+- collision area
+- easings box anim
+- following eyes
+- draw circle sector
+- splines drawing
+- easings rectangle array
+- top down lights
+- bouncing ball
+- lines bezier
+- rectangle advanced
+- colors palette
+- logo raylib anim
+- logo raylib
+- rectangle scaling
+- easings ball anim
+- basic shapes
 
+### [Text:](https://github.com/GuvaCode/Ray4Laz-Example/blob/main/text/)
+- font loading
+- font sdf
+- format text
+- input box
+- rectangle bounds
+- raylib fonts
+- font spritefont
+- font filters
+- writing anim
 
+### [Textures:](https://github.com/GuvaCode/Ray4Laz-Example/blob/main/textures/)
+- textured curve
+- sprite button
+- image generation
+- bunnymark
+- raw data
+- logo raylib
+- image drawing
+- polygon
+- draw tiled
+- background scrolling
+- npatch drawing
+- srcrec dstrec
+- image text
+- image loading
+- image kernel
+- image processing
+- image channel
+- image rotate
+- gif player
+- fog of war
+- sprite explosion
+- blend modes
+- sprite anim
+- mouse painting
+- particles blending
+- texture to image
+
+### [Additional:](https://github.com/GuvaCode/Ray4Laz-Example/tree/main/additional%20raylib%20examples)
+- FpsCameraInCubeBox
+- RPG_Camera2D
+- demo_text_fx
+- HappyNew
+- BeginersExample
+- collider_example
+- MorphTest
+- Fps shoot bullet
+- Visual_3d_Camera_in_LCL
+- Snake
+- acinerella
+- toonShader
+- Gpu_particles
+- Ergo
+- Fps50x50CubeGround
+- Scrollling_and_Animation
+- blockGame
+- Raylib example of mouse drag panning for 2D camera
+- Timer
+- raylib worldspace panning
+- pong
 
 
 
